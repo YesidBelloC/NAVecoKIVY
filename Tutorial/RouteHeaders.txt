@@ -1,0 +1,16 @@
+route['features'][0]['bbox']
+route['features'][0]['geometry']['coordinates']
+route['features'][0]['properties']['ascent']
+route['features'][0]['properties']['descent']
+route['features'][0]['properties']['extras']['waytypes']['summary'][0]
+route['features'][0]['properties']['segments'][0]['ascent'] + exacto
+route['features'][0]['properties']['segments'][0]['descent'] + exacto
+route['features'][0]['properties']['segments'][0]['distance']
+route['features'][0]['properties']['segments'][0]['duration']
+len(route['features'][0]['properties']['segments'][0]['steps'])
+route['features'][0]['properties']['segments'][0]['steps'][0]['distance']
+route['features'][0]['properties']['segments'][0]['steps'][0]['duration']
+route['features'][0]['properties']['segments'][0]['steps'][0]['instruction']
+route['features'][0]['properties']['segments'][0]['steps'][0]['name']
+route['features'][0]['properties']['segments'][0]['steps'][0]['type']
+route['features'][0]['properties']['segments'][0]['steps'][0]['way_points']
